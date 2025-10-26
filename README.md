@@ -7,15 +7,15 @@
 
 ## Screenshots
 
-(project-screenshots/1.png)
+[Project Image](project-screenshots/1.png)
 
 ---
 
-(project-screenshots/2.png)
+[Project Image](project-screenshots/2.png)
 
 ---
 
-(project-screenshots/2.png)
+[Project Image](project-screenshots/3.png)
 
 ---
 
