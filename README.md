@@ -1,7 +1,6 @@
-# youTube
+# YouTube
 
-🔗 **Live Demo:**  
-[🌐 View Project](https://maazcodecraft.github.io/YouTube-clone)
+**Live Demo:** [View Project](https://maazcodecraft.github.io/YouTube-clone)
 
 ---
 
@@ -9,18 +8,11 @@
 
 ### Home Page
 
-[Project Image](project-screenshots/1.png)
+![Project Image 1](project-screenshots/1.png)
+![Project Image 2](project-screenshots/2.png)
+![Project Image 3](project-screenshots/3.png)
 
 ---
 
-[Project Image](project-screenshots/2.png)
-
----
-
-[Project Image](project-screenshots/3.png)
-
----
-
-[Project Video](project-screenshots/project-video.mp4)
-
----
+**Project Demo Video:**  
+[▶️ Watch Video](project-screenshots/project-video.mp4)
