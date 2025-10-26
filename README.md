@@ -15,4 +15,6 @@
 ---
 
 **Project Demo Video:**  
-[![Watch the video](project-screenshots/video-thumbnail.png)](https://raw.githubusercontent.com/maazcodecraft/YouTube-clone/main/project-screenshots/project-video.mp4)
+<video src="project-screenshots/project-video.mp4" controls autoplay loop muted width="600">
+Your browser does not support the video tag.
+</video>
