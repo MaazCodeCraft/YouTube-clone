@@ -15,4 +15,4 @@
 ---
 
 **Project Demo Video:**  
-[▶️ Watch Video](project-screenshots/project-video.mp4)
+[![Watch the video](project-screenshots/video-thumbnail.png)](https://raw.githubusercontent.com/maazcodecraft/YouTube-clone/main/project-screenshots/project-video.mp4)
