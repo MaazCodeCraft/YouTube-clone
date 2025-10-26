@@ -14,7 +14,25 @@
 
 ---
 
-**Project Demo Video:**  
-<video src="project-screenshots/project-video.mp4" controls autoplay loop muted width="600">
-Your browser does not support the video tag.
-</video>
+---
+
+## Project Demo Video
+
+[Watch Demo Video](project-screenshots/project-video.mp4)
+
+---
+
+## Features
+
+- Responsive YouTube-like interface
+- Header with search functionality
+- Sidebar navigation
+- Video grid layout with thumbnails
+- Channel information and video metadata
+- Hover effects and tooltips
+
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+- Custom styling for header, sidebar, and video components
