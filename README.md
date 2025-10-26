@@ -7,6 +7,8 @@
 
 ## Screenshots
 
+### Home Page
+
 [Project Image](project-screenshots/1.png)
 
 ---
