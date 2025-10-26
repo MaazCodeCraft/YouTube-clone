@@ -18,7 +18,7 @@
 
 ## Project Demo Video
 
-[Watch Demo Video](project-screenshots/project-video.mp4)
+[📥 Download Demo Video](project-screenshots/project-video.mp4)
 
 ---
 
